@@ -98,6 +98,8 @@ resume_job_parser/
 ### Prerequisites
 - **Node.js** (v18.0.0 or higher)
 - **npm** (v9.0.0 or higher)
+- *(Optional)* **PostgreSQL Database** (If omitted, the app automatically runs on the built-in In-Memory engine)
+- *(Optional)* **Google Gemini API Key** (If omitted, the app runs using rule-based heuristic parsing and suggestions)
 
 ---
 
